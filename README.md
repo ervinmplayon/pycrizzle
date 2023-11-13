@@ -1,2 +1,2 @@
 # pycrizzle
-test
+test .
